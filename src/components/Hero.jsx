@@ -16,9 +16,9 @@ export function Hero() {
            <main class=" pb-8">
     <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:max-w-7xl lg:px-8">
      
-      <div class="grid grid-cols-1 gap-4 items-center lg:grid-cols-3 lg:gap-8">
+      <div class="flex items-center">
        
-        <div class="grid grid-cols-1 gap-4 lg:col-span-2 ">
+        <div class="grid grid-cols-1 gap-4  ">
           <section aria-labelledby="section-1-title">
             <div class="rounded-lg bg-white overflow-hidden shadow">
               <div class="p-6 flex items-center justify-center">
